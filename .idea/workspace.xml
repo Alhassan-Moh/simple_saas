@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64e5e830-6961-4d63-b203-ed5b88a2a674" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/application.css.scss" afterPath="$PROJECT_DIR$/app/assets/stylesheets/application.css.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
-    </list>
+    <list default="true" id="64e5e830-6961-4d63-b203-ed5b88a2a674" name="Default" comment="" />
     <ignored path="simple_saas.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.bundle/" />
@@ -569,12 +566,12 @@
       <workItem from="1461682938825" duration="4145000" />
       <workItem from="1461758642492" duration="813000" />
       <workItem from="1461857675642" duration="2000" />
-      <workItem from="1461882448793" duration="2704000" />
+      <workItem from="1461882448793" duration="2822000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8805000" />
+    <option name="totallyTimeSpent" value="8923000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="451" y="32" width="829" height="712" extended-state="0" />
